@@ -1,3 +1,20 @@
+.container-fluid {
+    background-color: rgb(220,220,220);
+}
+
+.display-4 {
+    padding-top: 50px;
+}
+
+
+.lead {
+    padding-bottom: 50px;
+}
+
+
+        /*--------------------------------------Footer-----*/
+
+
 .social-links {
     padding-bottom: 15px;
 }
