@@ -1,6 +1,12 @@
 .container-fluid {
-    background-color: rgb(220,220,220);
+    background-color: rgb(220, 220, 220);
 }
+
+
+.splash {
+       background-color: rgb(220, 220, 220); 
+}
+
 
 .display-4 {
     padding-top: 50px;
@@ -12,8 +18,18 @@
 }
 
 
-        /*--------------------------------------Footer-----*/
+.headbox {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 10px;
+    text-align: center; 
+    width: 200px; 
 
+}
+
+
+
+/*--------------------------------------Footer-----*/
 
 .social-links {
     padding-bottom: 15px;
